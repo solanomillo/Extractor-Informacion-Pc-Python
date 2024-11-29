@@ -1,0 +1,7 @@
+INFORMACIÓN DEL COMPUTADOR:
+            SISTEMA OPERATIVO: Windows 10.0.19045
+            ARQUITECTURA: AMD64
+            PROCESADOR: AMD64 Family 21 Model 112 Stepping 0, AuthenticAMD
+            HOSTNAME: DESKTOP-UDA02EM
+            IP: 169.254.34.94
+            
